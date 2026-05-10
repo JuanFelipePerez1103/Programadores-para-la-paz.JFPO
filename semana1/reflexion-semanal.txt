@@ -1,0 +1,11 @@
+El uso responsable de la información en internet es el pilar fundamental de la ciudadanía digital,
+ya que garantiza que nuestra participación sea ética y veraz. En este contexto, la participación
+ciudadana no solo se trata de interactuar, sino de hacerlo con conciencia sobre el impacto de
+nuestras acciones en la sociedad. Aquí es donde herramientas técnicas como Git juegan un
+papel crucial, pues permiten organizar el trabajo de forma transparente y colaborativa. Al usar
+Git, aplicamos un pensamiento algorítmico y estructurado que facilita la trazabilidad de la
+información y la responsabilidad sobre lo que producimos. Existe una relación directa entre ser
+un ciudadano digital informado y la capacidad de utilizar herramientas tecnológicas para
+construir conocimiento de manera colectiva y ordenada. En conclusión, la ética digital y la
+competencia técnica son dos caras de la misma moneda en el ejercicio de una ciudadanía
+moderna y comprometida
