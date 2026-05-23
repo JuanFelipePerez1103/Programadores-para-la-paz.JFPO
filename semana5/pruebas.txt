@@ -1,0 +1,3 @@
+Prueba 1: Ejecución del servidor con node server.js. Resultado: OK.
+Prueba 2: Acceso a la ruta raíz (/). Resultado: Servidor responde con el mensaje de bienvenida.
+Prueba 3: Acceso a la ruta /api/info. Resultado: El servidor responde correctamente con el JSON.

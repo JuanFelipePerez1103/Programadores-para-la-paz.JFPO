@@ -1,0 +1,2 @@
+Una API  es como un puente o mensajero que permite que dos aplicaciones diferentes se comuniquen entre sí. Gracias a las APIs, un servidor puede recibir peticiones de datos de forma organizada, procesarlas y enviar una respuesta clara, lo que permite crear sistemas más eficientes.
+
