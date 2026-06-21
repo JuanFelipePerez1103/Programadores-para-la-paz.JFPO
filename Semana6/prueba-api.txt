@@ -1,0 +1,1 @@
+Prueba realizada: Envié un objeto JSON al endpoint /api/incidencia. El servidor procesó correctamente los datos recibidos mediante req.body y respondió con un mensaje de confirmación y los datos registrados.

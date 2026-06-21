@@ -1,0 +1,5 @@
+{
+  "tipo": "daño",
+  "descripcion": "poste de luz caído en la calle 15",
+  "ubicacion": "Valledupar"
+}
