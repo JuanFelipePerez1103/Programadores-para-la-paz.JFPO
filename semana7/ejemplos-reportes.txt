@@ -1,0 +1,17 @@
+Ejemplo 1 (Reporte de infraestructura):
+{
+  "id": 101,
+  "incidencia": "Hueco de gran profundidad en vía principal",
+  "ubicacion": "Carrera 9 con Calle 12, Valledupar",
+  "prioridad": "Alta",
+  "estado": "Pendiente de visita técnica"
+}
+
+Ejemplo 2 (Reporte de servicios públicos):
+{
+  "id": 102,
+  "incidencia": "Falta de alumbrado público nocturno",
+  "ubicacion": "Parque Los Algarrobillos",
+  "prioridad": "Media",
+  "estado": "En proceso de asignación a cuadrilla"
+}

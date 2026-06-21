@@ -1,0 +1,1 @@
+Al ejecutar un POST, el servidor recibe los datos en formato JSON y los almacena en el array 'reportes'. Al ejecutar un GET después, el servidor responde con la lista de todos los objetos guardados en dicho array, permitiendo verificar que la información ha sido registrada correctamente.

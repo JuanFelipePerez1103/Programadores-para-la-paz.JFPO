@@ -1,0 +1,2 @@
+El uso de APIs en proyectos comunitarios es fundamental porque permite organizar la información de manera estructurada y eficiente. A través de rutas como GET y POST, podemos democratizar el acceso a los datos, permitiendo que la comunidad consulte el estado de sus reportes en tiempo real. Sin embargo, es crítico implementar medidas de privacidad, asegurando que los datos sensibles, como nombres reales o documentos, no queden expuestos públicamente, protegiendo así la integridad y seguridad de todos los participantes.
+
