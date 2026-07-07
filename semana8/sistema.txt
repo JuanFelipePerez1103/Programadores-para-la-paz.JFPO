@@ -1,0 +1,4 @@
+uname -a: Muestra detalles del núcleo (kernel), versión del sistema y arquitectura.
+whoami: Indica el nombre del usuario con el que iniciaste sesión.
+Utilidad: Es vital para administradores porque ayuda a verificar permisos, identificar el entorno y asegurar que el servidor esté operando en la versión correcta y segura.
+

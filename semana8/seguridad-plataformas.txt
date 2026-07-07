@@ -1,0 +1,6 @@
+1. No exponer datos personales (privacidad) en perfiles públicos.
+2. Proteger las credenciales de acceso mediante encriptación y hashes.
+3. Usar conexiones seguras (HTTPS) para cifrar la comunicación.
+4. Registrar y monitorear todos los accesos al sistema para detectar anomalías.
+5. Limitar el acceso a información sensible basándose estrictamente en el rol del usuario
+
