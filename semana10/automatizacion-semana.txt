@@ -1,0 +1,6 @@
+Evento: Nuevo reporte registrado en el sistema.
+Acción: Enviar mensaje automático a un canal de Telegram.
+Mensaje: "Se ha recibido un nuevo reporte de veeduría. Por favor, ingrese al sistema para su revisión."
+Información no permitida: Nombres completos, números de cédula, direcciones exactas, teléfonos personales o claves.
+
+

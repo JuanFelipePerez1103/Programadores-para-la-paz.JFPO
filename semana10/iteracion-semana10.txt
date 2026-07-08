@@ -1,0 +1,7 @@
+Tareas priorizadas: Registrar incidencia y Recibir alerta en Telegram.
+Son importantes porque permiten capturar la información necesaria y avisar al equipo de inmediato.
+Definición :
+Funciona según lo esperado.
+Fue probada en el entorno de desarrollo.
+El código quedó registrado y verificado en Git.
+
