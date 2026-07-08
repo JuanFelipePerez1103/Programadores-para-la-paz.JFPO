@@ -1,0 +1,6 @@
+Al ejecutar node server.js: El programa inicia el servidor en segundo plano y se queda esperando conexiones.
+
+Mensaje en la terminal: Aparece el texto "Servidor ejecutándose en puerto 3000".
+
+Al visitar /estado: El navegador muestra un objeto JSON con la información {"estado": "Servidor funcionando", "servicio": "API comunitaria"}.
+
