@@ -1,0 +1,2 @@
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones privadas. Es vital que las rutas administrativas o de manejo de datos estén protegidas para evitar accesos no autorizados. Nunca deben exponerse públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens de acceso o claves de API. La autenticación garantiza que solo los usuarios verificados interactúen con la información crítica de la comunidad.
+
